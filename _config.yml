@@ -23,10 +23,10 @@ future: true
 
 title: Arvin Meralpis                          # the main title
 
-tagline: Full stack web developer   # it will display as the sub-title
+tagline: Full stack web app developer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Arvin Meralpis - Full stack web developer
+  Arvin Meralpis - Full stack web app developer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -44,8 +44,8 @@ social:
   email: arvinboggs@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/arvinboggs      # change to your twitter homepage
     - https://github.com/arvinboggs       # change to your github homepage
+    - https://twitter.com/arvinboggs      # change to your twitter homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/arvinboggs
     - https://www.linkedin.com/in/arvin-meralpis
@@ -89,7 +89,7 @@ avatar: images/burger.jpg
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: true         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -99,10 +99,10 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:              # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: arvinboggs/ChirpyStarterTry              # <gh-username>/<repo>
+    repo_id: R_kgDOIVOqnA
+    category: giscus
+    category_id: DIC_kwDOIVOqnM4CSQ7s
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
