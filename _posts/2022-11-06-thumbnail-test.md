@@ -1,7 +1,7 @@
 ---
 title: Thumbnail Test
 date: 2022-11-06 16:15:33 +0800
-categories: test
+categories: "Multi Words" Underscored_Words
 image:
   path: /images/myimage.jpg
   width: 1024   # in pixels
