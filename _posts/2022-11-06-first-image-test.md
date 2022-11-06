@@ -8,5 +8,5 @@ categories: test
 
 just another test
 
-![this is the image description again](/images/repository-open-graph-template.png.jpg)
+![this is the image description again](/images/repository-open-graph-template.png)
 *this is the caption with asterisk*
