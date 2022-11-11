@@ -2,7 +2,7 @@
 title: FastReport to PDF Demo
 date: 2022-10-16 12:00:00 +0800
 categories: Proof_Of_Concept
-tag: open-source, csharp
+tags: open-source csharp
 image:
   path: /images/FastReportPDFDemo.png
   width: 1280   # in pixels
@@ -11,7 +11,7 @@ image:
 
 # FastReport to PDF Demo.
 Minimal C# code to load a FastReport report template, populate a dataset, then export to PDF file.
-> Project page: https://github.com/arvinboggs/FastReportPdf
+> Project page: [https://github.com/arvinboggs/FastReportPdf](https://github.com/arvinboggs/FastReportPdf)
 
 > Warning: FastReport is a commercial product with price starting at $499. 
 > They also offer a [free open source][FROSgit] edition but the PDF export feature is actually an image export. That is, the text of the rendered PDF can neither be selected nor copied.
