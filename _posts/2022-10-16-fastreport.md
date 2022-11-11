@@ -1,7 +1,7 @@
 ---
 title: FastReport to PDF Demo
 date: 2022-10-16 12:00:00 +0800
-categories: Proof_Of_Concept
+category: Proof Of Concept
 tags: open-source csharp
 image:
   path: /images/FastReportPDFDemo.png
