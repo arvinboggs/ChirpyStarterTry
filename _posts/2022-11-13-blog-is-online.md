@@ -3,9 +3,9 @@ title: Blog Is Online
 date: 2022-11-13 12:00:00 +0800
 category: Announcement
 image:
-  path: /images/blog-is-online.png
+  path: /images/blog-is-online.jpg
   width: 1280   # in pixels
-  height: 640   # in pixels
+  height: 960   # in pixels
 ---
 
 # Blog is now online. 
