@@ -24,6 +24,7 @@ Add audio recording features to your Blazor Webassembly app by harnessing JavaSc
 > At the time of writing this article, Blazor has several things that it cannot do out of the box. One of these things is recording audio. Therefore, we will use JavaScript interop to achieve our goal.
 
 3. Put the initial content of `AudioRecorder.js`:
+
 ``` javascript
 // AudioRecorder.js
 var BlazorAudioRecorder = {};
