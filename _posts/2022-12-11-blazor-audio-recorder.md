@@ -4,14 +4,14 @@ date: 2022-12-11 12:00:00 +0800
 category: Proof Of Concept
 tags: open-source blazor
 image:
-  path: /images/blazor-audio-recorder.png
+  path: /images/blazor-audio-recorder.jpg
   width: 1280   # in pixels
   height: 720   # in pixels
 ---
 
 # Blazor Audio Recorder.
 
-Add audio recording feature to your Blazor Webassembly app by harnessing JavaScript interop.
+Add audio recording features to your Blazor Webassembly app by harnessing JavaScript interop.
 
 > Please view the live demo at [https://arvinboggs.github.io/AudioRecorderLive](https://arvinboggs.github.io/AudioRecorderLive)
 
