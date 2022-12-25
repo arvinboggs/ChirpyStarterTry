@@ -13,7 +13,7 @@ image:
 
 Implement file upload/download between Blazor WebAssembly app and ASP.NET app.
 
-> Project page: [https://github.com/arvinboggs/todo](https://github.com/arvinboggs/todo)
+> Project page: [https://github.com/arvinboggs/BlazorUploadDownload](https://github.com/arvinboggs/BlazorUploadDownload)
 
 ## File Upload
 
@@ -85,7 +85,7 @@ Implement file upload/download between Blazor WebAssembly app and ASP.NET app.
     }
     ```
 
-8. Save the uploaded into the server's local disk.
+8. Save the uploaded file into the server's local disk.
     ``` c#
     var pFile = Request.Form.Files.FirstOrDefault();
     if (pFile == null)
