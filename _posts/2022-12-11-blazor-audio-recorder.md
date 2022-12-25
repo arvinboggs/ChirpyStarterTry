@@ -49,7 +49,7 @@ Add audio recording features to your Blazor Webassembly app by harnessing JavaSc
 5. Add the function to capture data while recording. Insert this code before the `mMediaRecorder.start()` line.
     ``` javascript
     mMediaRecorder.addEventListener('dataavailable', vEvent => {
-    mAudioChunks.push(vEvent.data);
+        mAudioChunks.push(vEvent.data);
     });
     ```
 
@@ -92,7 +92,7 @@ Add audio recording features to your Blazor Webassembly app by harnessing JavaSc
 
     ``` c#
     @code {
-    void butRecordAudioStart_Click()
+        void butRecordAudioStart_Click()
         {
             mJS.InvokeVoidAsync("BlazorAudioRecorder.StartRecord");
         }
