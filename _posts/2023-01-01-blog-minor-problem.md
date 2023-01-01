@@ -1,14 +1,10 @@
 ---
-title: [SOLVED] Blog Minor Problem
+title: Blog Minor Problem - Solved
 date: 2023-01-01 12:00:00 +0800
-category: Personal
-image:
-  path: /images/strava-400km-2022-12-desktop.png
-  width: 976   # in pixels
-  height: 549   # in pixels
+category: meta
 ---
 
-# [SOLVED] Blog Minor Problem
+# Blog Minor Problem - Solved
 New year's day and I made a new post. I pushed it to GitHub but there was an error in the build process.
 ```
 Incremental build: disabled. Enable with --incremental
