@@ -12,4 +12,4 @@ image:
 # Upgrade .NET 6 to 7.
 Watch this video to know how easy it is to upgrade your projects, that use .NET 6, to .NET 7.
 
-{% include youtube.html id="Oe81hJ6Gh1I" %}
+{% include youtube.html id="VgFj-i2zAPw" %}
