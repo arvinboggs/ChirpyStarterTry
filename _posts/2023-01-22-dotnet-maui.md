@@ -9,7 +9,7 @@ image:
   height: 720   # in pixels
 ---
 
-# Upgrade .NET 6 to 7.
+# Getting Started .NET MAUI.
 Watch this video to start developing Android apps using .NET MAUI with C# and XAML.
 
 > .NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. [More Info](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0)
