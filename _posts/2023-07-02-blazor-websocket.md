@@ -12,6 +12,7 @@ image:
 # Blazor WebSocket
 ## About This Project
 This Blazor WebAssembly and ASP.NET project is a chat web application that demonstrates the use of WebSockets. The core components of the project are located in 2 files: `\Client\WebSocketClientConnection.cs` (for the client-side) and `\Server\Controllers\WebSocketsController.cs` (for the server-side). This article will provide a comprehensive guide on implementing WebSocket into your own project using these files.
+> Download the source code from [https://github.com/arvinboggs/BlazorWebSocket](https://github.com/arvinboggs/BlazorWebSocket).
 
 ## Client-Side
 In the client-side project, do this to initialize WebSocket client connection
