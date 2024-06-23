@@ -123,4 +123,4 @@ In case Coravel is not your cup of tea, here are some alternatives that you may 
 This article provides an introduction to scheduling tasks in ASP.NET using Coravel. By following these examples, you can easily integrate task scheduling into your application. For more advanced configurations and options, refer to the [Coravel documentation](https://docs.coravel.net) to find the best approach for your specific needs.
 
 ## Download the Source Code
-You can download the source code from this article on [GitHub](https://github.com/arvinboggs).
+You can download the source code from this article on [GitHub](https://github.com/arvinboggs/CoravelTry).
